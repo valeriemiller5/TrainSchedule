@@ -1,0 +1,26 @@
+#bg {
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+      
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+#title {
+    background-color: black;
+    color: gold;
+    padding: 50px;
+}
+
+.fancy {
+    font-family: 'Cinzel Decorative', cursive;
+    font-weight: bold;
+}
+
+.handWritten {
+    font-family: 'Petit Formal Script', cursive;
+    font-size: 18px;
+    margin-top: 5px;
+}
