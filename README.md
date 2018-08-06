@@ -6,7 +6,7 @@ In order to access the train schedule, please click the following link:
 https://valeriemiller5.github.io/TrainSchedule/
 
 This website was created using Firebase to capture the user's input and store in a database.  All forms submitted through the website will be stored in the database and appear each time the user visits the site.
-![Firebase Screenshot](/images/screenshot_firebase.png)
+![Firebase Screenshot](assets/images/screenshot_firebase.png)
 
 ## Built With
 jQuery - Javascript library used on this project
